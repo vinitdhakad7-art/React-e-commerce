@@ -16,7 +16,7 @@ const ProductDetail = () => {
   if (!product) return <h2>Product not found</h2>;
 
   return (
-    <div style={{ padding: "40px", display: "flex", gap: "40px", width:"100%", height:"400px" , backgroundColor:"gray", lineHeight:"37px",boxShadow:"0 10px 10px black", marginTop:"72px"}}>
+    <div style={{ padding: "40px", display: "flex", gap: "40px", width:"100%", height:"400px" , backgroundColor:"#eef2f6", lineHeight:"37px",boxShadow:"0 10px 10px black", marginTop:"72px"}}>
       <img src={product.image} width="350" />
 
       <div>

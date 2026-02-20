@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import {  Routes, Route } from "react-router-dom";
 import Navbar from "./Component/Navbar/Navbar";
 import Shop from "./Component/Shop/Shop";
 import Mens from "./Component/Mens";
@@ -13,7 +13,7 @@ import Success from "./pages/Success";
 
 function App() {
   return (
-    <BrowserRouter>
+    
       <div>
         <Navbar />
 
@@ -35,7 +35,7 @@ function App() {
         </Routes>
 
       </div>
-    </BrowserRouter>
+    
   );
 }
 
