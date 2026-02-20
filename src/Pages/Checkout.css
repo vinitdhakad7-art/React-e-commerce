@@ -1,0 +1,16 @@
+input{
+    padding: 15px;
+    width: 80%;
+    margin: 10px 45px;
+    
+}
+h1{
+    margin: auto;
+}
+h3{
+    font-size: 25px;
+    margin: 5px 45px;
+}
+button{
+    margin-left: 10px;
+}

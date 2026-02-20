@@ -1,0 +1,36 @@
+.success-container {
+  max-width: 600px;
+  margin: 72px auto;
+  padding: 30px;
+  border-radius: 12px;
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  text-align: center;
+  box-shadow: 0 0 10px black;
+}
+
+.success-container h1 {
+  text-align: center;
+  color: #16a34a;
+}
+
+.success-box {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.success-box h3 {
+  margin-top: 15px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+}
+
+.success-box ul {
+  padding-left: 20px;
+}
+
+.success-box li {
+  margin-bottom: 6px;
+}
